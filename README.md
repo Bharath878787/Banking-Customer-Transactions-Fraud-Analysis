@@ -109,38 +109,32 @@ Trend Analysis
 2025 showed a decline in fraud transactions compared to previous years
 
 💡 Recommendations
-1. Strengthen Monitoring of High-Risk Channels
 
+1. Strengthen Monitoring of High-Risk Channels
 Increase fraud monitoring efforts for:
 Phone Banking
 ATM transactions
 
 2. Enhance Controls for High-Risk Transaction Types
-
 Implement additional verification for:
 RTGS transactions
 Cash Withdrawal transactions
 
 3. Focus on High-Risk Locations
-
 Strengthen fraud prevention measures in:
 Kolkata
 Civil Lines Branch
 
 4. Investigate High-Risk Merchants
-
 Review merchants categorized as "Other" to identify hidden fraud patterns.
 
 5. Protect High-Risk Customer Segments
-
 Monitor customers aged 21–60 years more closely due to their higher fraud exposure.
 
 6. Improve Security for Salary-Related Transactions
-
 Introduce stricter validation procedures for salary-related transactions.
 
 7. Continue Existing Fraud Prevention Measures
-
 Since fraud levels declined in 2025, continue and strengthen current fraud prevention strategies to maintain the downward trend.
 
 🚀 Skills Demonstrated
@@ -170,19 +164,15 @@ Business Recommendations
 Data Storytelling
 
 📸 Dashboard Preview
-
 Banking Customer Transactions and Fraud Analysis Dashboard.png
 
 Detailed Fraud Analysis
-
 Detailed Transaction and Fraud Analysis.png
 
 Insights & Recommendations
-
 Insights & Recommendations.png
 
 👨‍💻 Author
 
 Godi Bharat
-
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights using Excel, Python, SQL, and Power BI.
