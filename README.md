@@ -139,37 +139,40 @@ Since fraud levels declined in 2025, continue and strengthen current fraud preve
 
 🚀 Skills Demonstrated
 
-Data Cleaning
+**Data Cleaning**
 Excel
 Pandas
 
-Data Validation
+**Data Validation**
 SQL
 
-Data Analysis
+**Data Analysis**
 Fraud Analysis
 Customer Segmentation
 Trend Analysis
 Business Analysis
 
-Data Visualization
+**Data Visualization**
 Power BI
 DAX
 Interactive Dashboard Design
 
-Business Intelligence
+**Business Intelligence**
 KPI Development
 Insight Generation
 Business Recommendations
 Data Storytelling
 
 📸 Dashboard Preview
+
 Banking Customer Transactions and Fraud Analysis Dashboard.png
 
 Detailed Fraud Analysis
+
 Detailed Transaction and Fraud Analysis.png
 
 Insights & Recommendations
+
 Insights & Recommendations.png
 
 👨‍💻 Author
