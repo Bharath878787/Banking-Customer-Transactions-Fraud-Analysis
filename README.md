@@ -164,15 +164,13 @@ Investigate the decline in fraud counts in 2025 to determine whether it reflects
 ## 🖼️ Power BI Dashboard
 
 ### Banking Customer Transactions & Fraud Analysis Dashboard
-Banking Customer Transactions and Fraud Analysis Dashboard.png
+[Banking Customer Transactions and Fraud Analysis Dashboard.png](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Banking%20Customer%20Transactions%20and%20Fraud%20Analysis%20Dashboard.png)
 
 ### Detailed Fraud Analysis
-
-![Detailed Fraud Analysis](Detailed%20Fraud%20Analysis.png)
+[View Detailed Transaction and Fraud Analysis](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Detailed%20Transaction%20and%20Fraud%20Analysis.png)
 
 ### Insights & Recommendations
-
-![Insights and Recommendations](Insights%20%26%20Recommendations.png)
+[View Insights and Recommendations](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Insights%20and%20Recommendations.png)
 
 ---
 
