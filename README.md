@@ -47,12 +47,14 @@ Fraudulent transactions can cause financial losses, reduce customer trust, and i
 ## 🧹 Data Cleaning & Preparation
 
 ### 1. Excel
+
 - Checked for missing and invalid values.
 - Identified formatting inconsistencies.
 - Standardized categorical values.
 - Performed initial data validation.
 
 ### 2. Python (Pandas)
+
 - Removed duplicate transaction records.
 - Trimmed unwanted whitespace.
 - Converted text-based dates into datetime format.
@@ -60,6 +62,7 @@ Fraudulent transactions can cause financial losses, reduce customer trust, and i
 - Handled missing values and transformed columns for analysis.
 
 ### 3. SQL (MySQL)
+
 - Validated the cleaned dataset.
 - Identified duplicate transaction IDs.
 - Performed data quality checks.
@@ -84,8 +87,6 @@ The Power BI dashboard includes the following key performance indicators:
 
 ## 🔍 Business Questions
 
-The analysis addresses the following business questions:
-
 1. What is the overall fraud rate?
 2. Which banking channels experience the highest fraud activity?
 3. Which customer age groups record the most fraudulent transactions?
@@ -104,33 +105,41 @@ The analysis addresses the following business questions:
 ## 📈 Key Insights
 
 ### 1. Fraud Overview
+
 - The overall fraud rate was **41.91%**.
 - Total fraudulent transactions reached **3,564**.
 - The total fraudulent transaction amount exceeded **22.97 million**.
 
 ### 2. Customer Analysis
+
 - Male and female customers recorded similar fraud counts.
 - Customers aged 21–60 accounted for the highest number of fraudulent transactions.
 
 ### 3. Banking Channel Analysis
+
 - Phone Banking recorded the highest fraud rate.
 - ATM transactions recorded the highest number of fraudulent transactions.
 
 ### 4. Transaction Analysis
+
 - RTGS and Cash Withdrawal transactions were among the most targeted transaction types.
 - **43.52% of fraudulent transactions** were marked as successful.
 
 ### 5. Geographic Analysis
+
 - Kolkata recorded the highest number of fraudulent transactions.
 - Civil Lines Branch recorded the highest fraud count.
 
 ### 6. Merchant Analysis
+
 - The **Other** merchant category recorded the highest fraud count, with **2,955 transactions**.
 
 ### 7. Transaction Category Analysis
+
 - Salary-related transactions recorded the highest fraud count among the transaction categories.
 
 ### 8. Trend Analysis
+
 - 2024 recorded the highest fraud activity.
 - Fraudulent transaction counts declined in 2025 compared with previous years.
 
@@ -139,65 +148,84 @@ The analysis addresses the following business questions:
 ## 💡 Business Recommendations
 
 ### 1. Strengthen Monitoring of High-Risk Channels
+
 Increase monitoring of Phone Banking and ATM transactions using transaction alerts, anomaly detection, and risk-based verification.
 
 ### 2. Enhance Controls for High-Risk Transaction Types
+
 Apply additional risk checks to RTGS transfers and cash withdrawals, particularly when transaction behavior deviates from a customer's normal pattern.
 
 ### 3. Focus on High-Risk Locations
+
 Investigate the fraud patterns observed in Kolkata and Civil Lines Branch to determine whether additional controls or monitoring are required.
 
 ### 4. Investigate the "Other" Merchant Category
+
 Review transactions grouped under the Other category and improve merchant classification to uncover more specific fraud patterns.
 
 ### 5. Improve Customer Risk Monitoring
+
 Use customer age groups as one analytical dimension while prioritizing actual transaction behavior, account history, and risk indicators when assessing fraud risk.
 
 ### 6. Strengthen Salary-Related Transaction Controls
+
 Review salary-related transactions for unusual amounts, unexpected account activity, and suspicious transaction patterns.
 
 ### 7. Evaluate Fraud Prevention Effectiveness
+
 Investigate the decline in fraud counts in 2025 to determine whether it reflects improved controls, changes in transaction volume, or other factors before concluding that fraud prevention measures were effective.
 
 ---
 
-## 🖼️ Power BI Dashboard
+## 📸 Dashboard Preview
 
 ### Banking Customer Transactions & Fraud Analysis Dashboard
-[Banking Customer Transactions and Fraud Analysis Dashboard.png](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Banking%20Customer%20Transactions%20and%20Fraud%20Analysis%20Dashboard.png)
 
-### Detailed Fraud Analysis
-[View Detailed Transaction and Fraud Analysis](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Detailed%20Transaction%20and%20Fraud%20Analysis.png)
+[🔗 View Banking Customer Transactions and Fraud Analysis Dashboard](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Banking%20Customer%20Transactions%20and%20Fraud%20Analysis%20Dashboard.png)
+
+### Detailed Transaction and Fraud Analysis
+
+[🔗 View Detailed Transaction and Fraud Analysis](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Detailed%20Transaction%20and%20Fraud%20Analysis.png)
 
 ### Insights & Recommendations
-[View Insights and Recommendations](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Insights%20and%20Recommendations.png)
+
+[🔗 View Insights and Recommendations](https://github.com/Bharath878787/Banking-Customer-Transactions-Fraud-Analysis/blob/main/Insights%20and%20Recommendations.png)
+
+---
+
+## 📂 Project Files
+
+- [📥 Download Power BI Dashboard (.pbix)](./Banking%20Customer%20Transactions%20and%20Fraud%20Analysis.pbix)
+- [📄 View Raw Banking Transactions Dataset (.csv)](./Banking_Transactions_Raw_Uncleaned_8500plus.csv)
+
+*Note: The Power BI and CSV links require the corresponding files to be uploaded to the repository with exactly these filenames.*
 
 ---
 
 ## 🚀 Skills Demonstrated
 
-**Data Cleaning**
+### Data Cleaning
 - Microsoft Excel
 - Python (Pandas)
 
-**Data Validation**
+### Data Validation
 - SQL
 - Data quality checks
 - Duplicate detection
 
-**Data Analysis**
+### Data Analysis
 - Fraud analysis
 - Customer segmentation
 - Transaction analysis
 - Trend analysis
 - Business analysis
 
-**Data Visualization**
+### Data Visualization
 - Power BI
 - DAX
 - Interactive dashboard design
 
-**Business Intelligence**
+### Business Intelligence
 - KPI development
 - Insight generation
 - Business recommendations
@@ -211,3 +239,6 @@ Investigate the decline in fraud counts in 2025 to determine whether it reflects
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights using Excel, Python, SQL, and Power BI.
 
+---
+
+⭐ If you find this project useful, feel free to explore the repository and connect with me on GitHub.
